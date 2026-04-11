@@ -1,6 +1,6 @@
 # NeetCode Solutions — @Skynanduil
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions-1gblel5g`
+> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
 ---
 
